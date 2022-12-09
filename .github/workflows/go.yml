@@ -34,4 +34,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: supangkat/cms1:latest
+          tags: gamebox-002-registry.ap-southeast-5.cr.aliyuncs.com/eka/cms2:eka
